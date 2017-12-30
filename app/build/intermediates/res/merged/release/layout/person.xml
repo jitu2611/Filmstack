@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ScrollView
+        android:id="@+id/scrollperson"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingLeft="@dimen/_5sdp"
+        android:paddingRight="@dimen/_5sdp"
+        android:fillViewport="true">
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_120sdp"
+            android:orientation="horizontal" >
+
+            <LinearLayout
+                android:id="@+id/thumbnailperson"
+                android:layout_width="wrap_content"
+                android:padding="@dimen/_5sdp"
+                android:layout_height="fill_parent" >
+
+                <ImageView
+                    android:id="@+id/icon"
+                    android:layout_width="@dimen/_100sdp"
+
+                    android:layout_height="@dimen/_120sdp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/_120sdp"
+                android:orientation="vertical"
+                android:weightSum="100" >
+
+                <TextView
+                    android:id="@+id/personname"
+                    android:layout_width="fill_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="50"
+                    android:ellipsize="marquee"
+                    android:focusable="true"
+                    android:focusableInTouchMode="true"
+                    android:marqueeRepeatLimit="marquee_forever"
+                    android:scrollHorizontally="true"
+
+                    android:singleLine="true"
+
+                    android:textColor="#040404"
+                    android:textSize="@dimen/_25ssp"
+                    android:textStyle="bold"
+                    android:typeface="sans" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="50">
+                    <TextView
+                    android:id="@+id/dob"
+                    android:layout_width="fill_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:textColor="#040404"
+                    android:textSize="@dimen/_13ssp"
+                    android:textStyle="bold"
+                    android:typeface="sans" />
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:id="@+id/likeperson"
+                        android:layout_gravity="right"
+                        android:padding="@dimen/_5sdp"
+                        android:enabled="false"
+                        android:text="LIKE"
+                        android:layout_weight="1"
+                        />
+                </LinearLayout>
+
+
+
+
+            </LinearLayout>
+        </LinearLayout>
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/_2sdp"
+            android:background="#c0c0c0" />
+        <TextView
+            android:id="@+id/knownfor"
+            android:layout_width="match_parent"
+            android:textColor="#040404"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textSize="@dimen/_25ssp" />
+
+        <org.jitu.filmstack.HorizontalListView
+            android:id="@+id/movie"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/_200sdp" />
+
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:id="@+id/biogr"
+                android:textColor="#040404"
+                android:textSize="@dimen/_25ssp"
+                />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/_2sdp"
+                android:background="#c0c0c0" />
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/biograpbhy"
+
+                android:textSize="@dimen/_16ssp"/>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

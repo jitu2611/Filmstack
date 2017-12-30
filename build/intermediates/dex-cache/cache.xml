@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="69472e334350cafbf442776da05c9a04955252fb">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-api-9.0.0_9535ea643774c0f4340cec2a52779b707ca4d438.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jitesh\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.1.3-2\9b44c139a4ec57031e0c84ba0e49ba16df6d801c\kotlin-stdlib-1.1.3-2.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="9b44c139a4ec57031e0c84ba0e49ba16df6d801c">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\kotlin-stdlib-1.1.3-2_7416585e7e65b484395b3267f164e75b26490415.jar" />
+    </item>
+    <item
+        jar="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="f4e85eafa876cd7d7641244867dac3f88d71e866">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-9.0.0_c1cbc3c60db8efb09b106b9543494e362b5deee7.jar" />
+    </item>
+    <item
+        jar="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="2cb29455028e92e024bbad0d41c6ec772f2433d1">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-9.0.0_e81d3066480fd96a3553d217cf448e68e0911d43.jar" />
+    </item>
+    <item
+        jar="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="32a5a566ae197603d0bed3e6d1d275f6a771564e">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-9.0.0_0858cd75b1e0fa971fcb7f97ab35df5840198458.jar" />
+    </item>
+    <item
+        jar="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="5289e799a43a64c4137d109bf992e10a2f952aa3">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-9.0.0_96c0395de1684b0a7ea838db55f37e0099c1e596.jar" />
+    </item>
+    <item
+        jar="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="e595f98f8c525201dccd119f43ad1ddacd4c48d6">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-9.0.0_aff1fe8781a2b0b3128b4796ad07c7f3e1329227.jar" />
+    </item>
+    <item
+        jar="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.0.0_479d59407f8230502e57d3c6d134a66ca5dd806a.jar" />
+    </item>
+    <item
+        jar="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_45601b37e206c6a12c09eaed6f77254e59cbf625.jar" />
+    </item>
+    <item
+        jar="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.0.0_6e49cd7e76ec02c249d058c087f8cd64ff68497e.jar" />
+    </item>
+    <item
+        jar="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.3.1_9c5d2905f4c3d21218214ce2ddf6ec12713c955c.jar" />
+    </item>
+    <item
+        jar="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.3.1_bdc6e2b3f64475314561108d0e9a3b4f46a91d4a.jar" />
+    </item>
+    <item
+        jar="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_1d197d37233932d171d4eeaf626328fc406ef8fa.jar" />
+    </item>
+    <item
+        jar="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="294d49a66cc1238d9f7fd352136a45622fa98c0f">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-9.0.0_e169e0ecbb33201ca07d84a8f43683e438b3f9b1.jar" />
+    </item>
+    <item
+        jar="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="2f7bd8cc7519d5231aa8d2ae8e905d3f602bd491">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-9.0.0_d8535ffe6db7e7807c772dc9284fdede9af6af4c.jar" />
+    </item>
+    <item
+        jar="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="2c5bc0ebbe69c9fab587c2216b36ec44ab8f0704">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-9.0.0_d5b12c637705b5c9385ec1867b86cb80737f0aec.jar" />
+    </item>
+    <item
+        jar="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="a819aae4f0c711e50b4fd633922a3c1a176cb51e">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-9.0.0_a0d15d45983f5cf773f60ea1a68acc65fda62a66.jar" />
+    </item>
+    <item
+        jar="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ed16ff19f0a9515604a0f08104ca0317b82e29e3">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-9.0.0_bd9eef207ba3e44b58ca3eb6d5570536f33938cf.jar" />
+    </item>
+    <item
+        jar="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="379d1834afa3c08f43be23a23b103053537b65b5">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-iid-9.0.0_b109c23847b0031f67524b9ec28b4cfc92746dee.jar" />
+    </item>
+    <item
+        jar="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.0.0_bbcad4f941a6f008a76808a543c8623ae238a81e.jar" />
+    </item>
+    <item
+        jar="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d96f9f3ef66494d1231304cafd28c962dda80dea">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-9.0.0_8be443679f01cc22b86de456d1eda4a601b13afd.jar" />
+    </item>
+    <item
+        jar="E:\ADDITIONAL\android\asp\Movie\app\libs\jsoup-1.10.3.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="5df02f295714ac1b907d507dfea29a5a9f8f69ca">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\jsoup-1.10.3_fc144ff993a3c569e7532dfe2fd23ee3f9fb3c05.jar" />
+    </item>
+    <item
+        jar="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-23.0.0_78879f093271cdafd9b69cf482858a01db8a1960.jar" />
+    </item>
+    <item
+        jar="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.0.0_e694574f8058cb5c06a4eafc1496bc49d5f4a76b.jar" />
+    </item>
+    <item
+        jar="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="67a7d712de3e7d025f4efdcec1da183f764bdbab">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-9.0.0_ae33f72a6a2cb5e05e5367dc38bf89b354e92232.jar" />
+    </item>
+    <item
+        jar="E:\ADDITIONAL\android\asp\Movie\app\libs\firebase-messaging-10.0.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\firebase-messaging-10.0.1_70ee464f96c5af708412d4d32049e9c117e40d7f.jar" />
+    </item>
+    <item
+        jar="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.0.0_df77908a6573beb2d0103dcd75957d08c52f0301.jar" />
+    </item>
+    <item
+        jar="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="005786793d72c6deacbbbfd38177ed58e1aa6653">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-9.0.0_4ae236e61ea7115f7abf2baead2cf42c267287a6.jar" />
+    </item>
+    <item
+        jar="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.0.0_d6bd32c64fc64691666e77a16fba766172d37f6c.jar" />
+    </item>
+    <item
+        jar="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="817b9101192f2fd6dc0fd8cd522d8f4a1a75fcdc">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-9.0.0_e60ff0cf2b04b1d608f93f4357813ccf7166cd75.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jitesh\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations\13.0\919f0dfe192fb4e063e7dacadee7f8bb9a2672a9\annotations-13.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\annotations-13.0_1657c56698682a1e637a73b20a840a81a9e9d8e6.jar" />
+    </item>
+    <item
+        jar="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="4431efe5d0f67fab36a698dde725946b33a6bf4a">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-9.0.0_23bba5714ef334aaae2a9163a9343103e841b6b3.jar" />
+    </item>
+    <item
+        jar="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_48430125e992bc3f785004f8ec4cb822323cc2e8.jar" />
+    </item>
+    <item
+        jar="E:\ADDITIONAL\android\asp\Movie\app\libs\YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\YouTubeAndroidPlayerApi_3821bdaae839fe3e8ecc1be17baf1f339a9a637c.jar" />
+    </item>
+    <item
+        jar="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_b29f23df6e3cfca0d4cba3a6430ec927a4d34c1b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jitesh\.gradle\caches\modules-2\files-2.1\info.guardianproject.netcipher\netcipher\1.2\40b3d0b37e2d0ea1f25c299ae732cddf1578b730\netcipher-1.2.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="40b3d0b37e2d0ea1f25c299ae732cddf1578b730">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\netcipher-1.2_f3c5cff2b0008e1c64baa8f2b7b06942adef2cad.jar" />
+    </item>
+    <item
+        jar="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_5710ff02e2d0190e22007c6207230075e430d2a2.jar" />
+    </item>
+    <item
+        jar="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="79e4b41db41d4dbbf364c7bd6aaeee5b876c9d8b">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-9.0.0_312a3c330afc30e87adc134da8f82c77a4d15fbc.jar" />
+    </item>
+    <item
+        jar="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="733964f04c339e425439545b1d172c23b53f8c13">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-9.0.0_440d572ebae64bbc41b7e5f721e5573aedfc143c.jar" />
+    </item>
+    <item
+        jar="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="59cca9b91688dc2467754d36793b3d23bebd21a9">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-9.0.0_c26ec931899f3abb64c5b6f8c95f30270d1bdfae.jar" />
+    </item>
+    <item
+        jar="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="7a23185c9b1c100e7d1a32275017e4712e31c796">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-9.0.0_61dede2111034e503712316c96aff22b8e9135fa.jar" />
+    </item>
+    <item
+        jar="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_3aa7ef0473dc2d8aa233d92473542a00c08ffe92.jar" />
+    </item>
+    <item
+        jar="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ef5c5c2afbd174d55cf1cfcac7d0346cbc4c1322">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-9.0.0_1bcce5351eefd111c5dae9fff1898f66cd45e31f.jar" />
+    </item>
+    <item
+        jar="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_8da880fd5e7ffc54550fca83bc67530a28e1deec.jar" />
+    </item>
+    <item
+        jar="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.3.1_0b881bfa6839c5034af197e72798c62d9af72a22.jar" />
+    </item>
+    <item
+        jar="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ebfde1a055aea400df77584a68aa60609f618bed">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-config-9.0.0_ce489e88b6a4579b72d8fea277432d6168864de6.jar" />
+    </item>
+    <item
+        jar="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="373cd65725af2781d100ddc193c7d3f14464a774">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-impl-9.0.0_fff91862d6f95aedf26b06f809ffa997129b97ce.jar" />
+    </item>
+    <item
+        jar="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="7e467a973b749c6390a5991c9a8edbde96fc10c9">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-crash-9.0.0_8718c6a227ceb43150bfd972823e369228b70336.jar" />
+    </item>
+    <item
+        jar="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_88c0c2339c17e57b6afbd44b373871df814d8340.jar" />
+    </item>
+    <item
+        jar="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="5f0f6913a208a126269aaa68004ed0329a832c5b">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-common-9.0.0_3b32f5161a213a86420887b827626e0bc1f572d6.jar" />
+    </item>
+    <item
+        jar="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="7da84426d876216ed4cdddd85e739be5ecabdd04">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-9.0.0_62a19d2eccb32fbd989f959f94efb7c2604acbf0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jitesh\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_4cc497bb6fbacbb67f25316ab67e54d1c114c34d.jar" />
+    </item>
+    <item
+        jar="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="0facc6fc326f2406f4bb9b02f442994c5ce6a403">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-9.0.0_4c401aa4578489676e97cd6e52a4308b795c6319.jar" />
+    </item>
+    <item
+        jar="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="4caf75b2cfb7ec6e80a57d0ee64fc102ad3578b8">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-9.0.0_cde085075b4242092660fd54aac3d41668043e84.jar" />
+    </item>
+    <item
+        jar="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.0.0_4414c812f0104c8d19b36e26affa502fbb1c6356.jar" />
+    </item>
+    <item
+        jar="E:\ADDITIONAL\android\asp\Movie\app\libs\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_b1228735f61027daf25007dbe26b6a6eb1e0d554.jar" />
+    </item>
+    <item
+        jar="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="c11cf7a7a6e5adf8fa564303a11dbc351fc11b7c">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-9.0.0_23b400e7b3f4b22514e85834e16612aa9a4aca12.jar" />
+    </item>
+    <item
+        jar="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_f9b10b9231636f11648c36607ab25d065b351c8b.jar" />
+    </item>
+    <item
+        jar="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_41116a7952fabc89e3d42ecc06d8a27fc9419ca4.jar" />
+    </item>
+    <item
+        jar="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="8126914f5bc372a33e27ea90f02412c32468ce8a">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-9.0.0_d74c04c8945185f78dcbbb5f2decf94d4d3019b9.jar" />
+    </item>
+    <item
+        jar="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="24536a7b97926a9c155c88425da6875adeb11b51">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-module-9.0.0_a4b22e98d191147b2dc8a734e55f88bd2db8a230.jar" />
+    </item>
+    <item
+        jar="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d7002ed92a3c46c6a89a786877ecf7978a4f0459">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-9.0.0_f930ba576b03562966b0d994484d2d3946030aa7.jar" />
+    </item>
+    <item
+        jar="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="70ddab48594608953b20164b82f1f890a9a8174a">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-9.0.0_f0719351f3ef8e8fa8f582e7231a560bf03a3919.jar" />
+    </item>
+    <item
+        jar="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="b8bedab61b3b5238cd9a07d3b04449d7fecdbc3b">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-9.0.0_1105031168531f5af7b660dbf09e42d08d285acf.jar" />
+    </item>
+    <item
+        jar="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="184428c29b2a4b220cd44284d515db5d8cb5fc76">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-9.0.0_488e101c8f4810cf9a623d5f72fc756b48ecd5ad.jar" />
+    </item>
+    <item
+        jar="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.3.1_771ed4565ed987b3879cce00661f8158ff4ad3b5.jar" />
+    </item>
+    <item
+        jar="E:\ADDITIONAL\android\asp\Movie\app\libs\universal-image-loader-1.9.5.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.5_35a10ffd937ec6138d5b600a247c27a171a60e1c.jar" />
+    </item>
+
+</items>

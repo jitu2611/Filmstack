@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\anim\\design_snackbar_in.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.0-alpha1\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.0-alpha1\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\anim\\slideup.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\src\\main\\res\\anim\\slideup.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.0-alpha1\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\anim\\design_snackbar_out.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.0-alpha1\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    }
+]

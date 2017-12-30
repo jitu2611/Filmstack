@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "295866666474",
+    "firebase_url": "https://filmstack-push-notification.firebaseio.com",
+    "project_id": "filmstack-push-notification",
+    "storage_bucket": "filmstack-push-notification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295866666474:android:e5af208bcbca3dfb",
+        "android_client_info": {
+          "package_name": "org.jitu.filmstack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295866666474-5q3ujk3i3p7odkvujp5au90ev0e29rn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpndoB-PUKXiDrja4iV3dzG4xXtYvRvTE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

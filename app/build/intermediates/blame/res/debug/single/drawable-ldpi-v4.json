@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\common_ic_googleplayservices.png",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-ldpi-v4\\common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\viewpager.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\src\\main\\res\\drawable-ldpi\\viewpager.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\play.png",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\src\\main\\res\\drawable-ldpi\\play.png"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\prog.gif",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\src\\main\\res\\drawable-ldpi\\prog.gif"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\playt.png",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\src\\main\\res\\drawable-ldpi\\playt.png"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\border.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\src\\main\\res\\drawable-ldpi\\border.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\giphy.gif",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\src\\main\\res\\drawable-ldpi\\giphy.gif"
+    }
+]

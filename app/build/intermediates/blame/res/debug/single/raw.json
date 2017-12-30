@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics-impl\\9.0.0\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\debug\\raw\\wake.mp3",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\src\\main\\res\\raw\\wake.mp3"
+    }
+]

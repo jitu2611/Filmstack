@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/windowBackground"
+    android:orientation="vertical" >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_175sdp"
+        android:paddingBottom="@dimen/_25sdp">
+    <ImageView
+        android:layout_width="@dimen/_150sdp"
+        android:layout_height="@dimen/_175sdp"
+        android:id="@+id/aimage"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/atext"
+        android:textSize="@dimen/_25ssp"/>
+    </LinearLayout>
+    <Button
+        android:id="@+id/btn_date"
+        android:paddingLeft="@dimen/_30sdp"
+        android:paddingRight="@dimen/_30sdp"
+        android:layout_width="@dimen/_250sdp"
+        android:layout_gravity="center"
+        android:layout_height="wrap_content"
+        android:text="SELECT DATE" />
+
+   
+
+    <Button
+        android:id="@+id/btn_time"
+        android:paddingLeft="@dimen/_30sdp"
+        android:paddingRight="@dimen/_30sdp"
+        android:layout_width="@dimen/_250sdp"
+        android:layout_gravity="center"
+        android:layout_height="wrap_content"
+        android:text="SELECT TIME" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="@dimen/_30sdp"
+        android:gravity="center">
+     <Button
+        android:id="@+id/set"
+         android:paddingLeft="@dimen/_30sdp"
+         android:paddingRight="@dimen/_30sdp"
+
+         android:layout_width="@dimen/_170sdp"
+         android:background="@color/blue"
+
+        android:layout_height="wrap_content"
+        android:text="SET ALARM"
+        />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,370 @@
+[
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_multichoice_material.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\welcome_2.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\src\\main\\res\\layout\\welcome_2.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\frontpage.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\src\\main\\res\\layout\\frontpage.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\welcomeactivity.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\src\\main\\res\\layout\\welcomeactivity.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\youtube.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\src\\main\\res\\layout\\youtube.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\display.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\src\\main\\res\\layout\\display.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\nointernet.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\src\\main\\res\\layout\\nointernet.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\bookmarkdisplay.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\src\\main\\res\\layout\\bookmarkdisplay.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragmentactivity.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\src\\main\\res\\layout\\fragmentactivity.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\hrowp.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\src\\main\\res\\layout\\hrowp.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_select_dialog_material.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\welcome_1.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\src\\main\\res\\layout\\welcome_1.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\alarm.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\src\\main\\res\\layout\\alarm.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\hroww.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\src\\main\\res\\layout\\hroww.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\rated.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\src\\main\\res\\layout\\rated.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\search.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\src\\main\\res\\layout\\search.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\popular.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\src\\main\\res\\layout\\popular.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\favact.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\src\\main\\res\\layout\\favact.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\credits.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\src\\main\\res\\layout\\credits.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_display_noti.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\src\\main\\res\\layout\\activity_display_noti.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_menu_item.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.0-alpha1\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\about.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_menu.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.0-alpha1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item_separator.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.0-alpha1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\full_dialog.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\src\\main\\res\\layout\\full_dialog.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media_custom.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\genre.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\src\\main\\res\\layout\\genre.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\hrow.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\src\\main\\res\\layout\\hrow.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item_header.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.0-alpha1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\nowshow.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\src\\main\\res\\layout\\nowshow.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_tab_icon.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.0-alpha1\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\help.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\src\\main\\res\\layout\\help.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_custom_big.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.0-alpha1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\dview.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\src\\main\\res\\layout\\dview.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\person.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\src\\main\\res\\layout\\person.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_lines_media.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_menu_item_action_area.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.0-alpha1\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\list_alarmrow.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\src\\main\\res\\layout\\list_alarmrow.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\upcoming.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\src\\main\\res\\layout\\upcoming.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_action.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\weltext.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\src\\main\\res\\layout\\weltext.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\listsaved.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\src\\main\\res\\layout\\listsaved.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item_subheader.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.0-alpha1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\alarmstop.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\src\\main\\res\\layout\\alarmstop.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\noresult.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\src\\main\\res\\layout\\noresult.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\simplevideoview.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\src\\main\\res\\layout\\simplevideoview.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_text_input_password_icon.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.0-alpha1\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_snackbar_include.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.0-alpha1\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_main.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\list_row.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\src\\main\\res\\layout\\list_row.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_action_tombstone.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_icon_group.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\loadingactivity.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\src\\main\\res\\layout\\loadingactivity.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_tab_text.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.0-alpha1\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_view.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_snackbar.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.0-alpha1\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\hpp.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\src\\main\\res\\layout\\hpp.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.0-alpha1\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\web.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\src\\main\\res\\layout\\web.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_bottom_navigation_item.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.0-alpha1\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_item_material.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\ADDITIONAL\\android\\asp\\Movie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_action_mode_bar.xml"
+    }
+]

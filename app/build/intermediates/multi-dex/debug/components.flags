@@ -1,0 +1,153 @@
+-injars 'E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\transforms\jarMerging\debug\jars\1\1f\combined.jar'
+-outjars 'E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\multi-dex\debug\componentClasses.jar'
+
+-libraryjars 'C:\Users\Jitesh\AppData\Local\Android\sdk\build-tools\26.0.1\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **,com.android.tools.fd.**,android.support.multidex.MultiDexExtractor
+-dontwarn **
+-printconfiguration 'E:\ADDITIONAL\android\asp\Movie\app\build\intermediates\multi-dex\debug\components.flags'
+
+
+-keep class org.jitu.filmstack.MyApplication {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep class org.jitu.filmstack.FireIDService {
+    <init>();
+}
+
+-keep class org.jitu.filmstack.FireMsgService {
+    <init>();
+}
+
+-keep class org.jitu.filmstack.FragmentMainActivity {
+    <init>();
+}
+
+-keep class org.jitu.filmstack.VideoPlayer {
+    <init>();
+}
+
+-keep class com.google.android.gms.ads.AdActivity {
+    <init>();
+}
+
+-keep class org.jitu.filmstack.Web {
+    <init>();
+}
+
+-keep class org.jitu.filmstack.WebJ {
+    <init>();
+}
+
+-keep class org.jitu.filmstack.NoresultFound {
+    <init>();
+}
+
+-keep class org.jitu.filmstack.AlarmStop {
+    <init>();
+}
+
+-keep class org.jitu.filmstack.Database {
+    <init>();
+}
+
+-keep class org.jitu.filmstack.ImageCacheDB {
+    <init>();
+}
+
+-keep class org.jitu.filmstack.AlgoDB {
+    <init>();
+}
+
+-keep class org.jitu.filmstack.AlarmDatabase {
+    <init>();
+}
+
+-keep class org.jitu.filmstack.WatchedDB {
+    <init>();
+}
+
+-keep class org.jitu.filmstack.FavactDB {
+    <init>();
+}
+
+-keep class org.jitu.filmstack.AlarmReciever {
+    <init>();
+}
+
+-keep class org.jitu.filmstack.YoutubeAct {
+    <init>();
+}
+
+-keep class org.jitu.filmstack.WelcomeActivity {
+    <init>();
+}
+
+-keep class org.jitu.filmstack.LoadingActivity {
+    <init>();
+}
+
+-keep class org.jitu.filmstack.DisplayNoti {
+    <init>();
+}
+
+-keep class com.google.android.gms.ads.purchase.InAppPurchaseActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.common.api.GoogleApiActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver {
+    <init>();
+}
+
+-keep class com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver {
+    <init>();
+}
+
+-keep class com.google.android.gms.measurement.AppMeasurementService {
+    <init>();
+}
+
+-keep class com.google.firebase.provider.FirebaseInitProvider {
+    <init>();
+}
+
+-keep class com.google.firebase.iid.FirebaseInstanceIdReceiver {
+    <init>();
+}
+
+-keep class com.google.firebase.iid.FirebaseInstanceIdInternalReceiver {
+    <init>();
+}
+
+-keep class com.google.firebase.iid.FirebaseInstanceIdService {
+    <init>();
+}
+
+-keep class com.google.firebase.messaging.FirebaseMessagingService {
+    <init>();
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.fd.** {
+    <fields>;
+    <methods>;
+}

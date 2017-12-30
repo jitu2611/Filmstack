@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="@dimen/_15sdp"
+        android:gravity="center"
+        android:text="HELP GUIDE"
+        android:textSize="@dimen/_30ssp"
+        android:textStyle="bold" />
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/_15sdp">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/_20ssp"
+            android:text="1. Welcome to FilmStack help guide .\n2. FilmStack is a movie recommendation application that works upon a special algorithm .\n3.If you have liked/watched a movie do click on SEEN button so the algorithm can works better .\n4.You can also like a actor/actress if u like bcz it also plays a great role in algorithm function .\n5.This app lets you watch movies and also download them .\n6. You can bookmark a page for offline reading .\n7.You can set reminder to watch a movie later .\n8 Thanks for choosing FilmStack .!!!
+                                   "/>
+    </ScrollView>
+
+</LinearLayout>
