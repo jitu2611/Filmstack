@@ -24,15 +24,7 @@ API  - TMDB, Youtube, Openload
 <img src="screenshot/8.jpeg" width="200" >
 
 
-
-
-ANDROID ACTIVITY LIFE CYCLE :-
-                                                     
-1) ACTIVITY START -> onCreate() -> onStart() -> onResume() -> ACTIVITY RUNNING -> onPause() -> onStop() -> onDestroy()  -> ACTIVITY SHUTDOWN
-
-
 HIGH LEVEL FEATURES DESCRIPTION :- 
-
 
 1) RECOMMENDATION :-
     -  WE RECOMMEND MOVIES ACORDING TO USER ACTION
