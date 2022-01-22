@@ -15,6 +15,10 @@ Features of Filmstack app :-
 API  - TMDB, Youtube, Openload
 
 
+<img src="screenshot/1.jpeg" width="100" >
+
+
+
 ANDROID ACTIVITY LIFE CYCLE :-
                                                      
 1) ACTIVITY START -> onCreate() -> onStart() -> onResume() -> ACTIVITY RUNNING -> onPause() -> onStop() -> onDestroy()  -> ACTIVITY SHUTDOWN
