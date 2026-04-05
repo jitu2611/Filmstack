@@ -1,76 +1,133 @@
-# Filmstack
-Movie Recommendation App
+# 🎬 Filmstack
 
-Features of Filmstack app :- 
+> A smart Android movie discovery app — personalized recommendations, trailer playback, reminders, and more.
 
-* Get latest, upcoming, popular and top rated movies 
-* Can watch trailer of any movie
-* Share movie with friends 
-* Instant watch 
-* Share download link with friends 
-* Can search movies by genre
-* Bookmark a movie for offline reading
-* Set reminders for a movie  
+[![Java](https://img.shields.io/badge/Language-Java-orange.svg)](https://www.java.com)
+[![Android](https://img.shields.io/badge/Platform-Android-3DDC84.svg?logo=android)](https://developer.android.com)
+[![Firebase](https://img.shields.io/badge/Database-Firebase-FFCA28.svg?logo=firebase)](https://firebase.google.com)
+[![TMDB](https://img.shields.io/badge/API-TMDB-01B4E4.svg)](https://www.themoviedb.org)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-API  - TMDB, Youtube, Openload
+---
 
+## 📱 Screenshots
 
-<img src="screenshot/1.jpeg" width="200" > <img src="screenshot/2.jpeg" width="200" >
-<img src="screenshot/3.jpeg" width="200" >
-<img src="screenshot/4.jpeg" width="200" >
-<img src="screenshot/5.jpeg" width="200" >
-<img src="screenshot/6.jpeg" width="200" >
-<img src="screenshot/7.jpeg" width="200" >
-<img src="screenshot/8.jpeg" width="200" >
+<p align="center">
+  <img src="screenshot/1.jpeg" width="180" />
+  <img src="screenshot/2.jpeg" width="180" />
+  <img src="screenshot/3.jpeg" width="180" />
+  <img src="screenshot/4.jpeg" width="180" />
+</p>
+<p align="center">
+  <img src="screenshot/5.jpeg" width="180" />
+  <img src="screenshot/6.jpeg" width="180" />
+  <img src="screenshot/7.jpeg" width="180" />
+  <img src="screenshot/8.jpeg" width="180" />
+</p>
 
+---
 
-HIGH LEVEL FEATURES DESCRIPTION :- 
+## ✨ Features at a Glance
 
-1) RECOMMENDATION :-
-    -  WE RECOMMEND MOVIES ACORDING TO USER ACTION
-    -  INPUTS ARE FROM FAVOURITE ACTOR, FAVOURITE MOVIES ETC
-    -  WE MAINTAIN A VALUE FOR EACH PREFERENCE AND HIGHER RATED VALUES IS SHOWN FIRST IN RECOMMENDATION
-    -  WE USE FIREBASE ( NOSQL ) AND SAVE EACH USER LIKED MOVIES AND MAINTAIN A COUNTER ( MOVIEID - NO. OF USERS WHO LIKED )
-    -  GET THE RECOMMEDNATION FROM FIREBASE + EACH USER PERSONAL PREFERENCE
+| Feature | Description |
+|---|---|
+| 🎯 **Personalized Recommendations** | AI-style scoring from favourite actors, genres and watch history |
+| 🎬 **Trailer Playback** | Custom video player using YouTube links via TMDB API |
+| 🌐 **Instant Watch** | Searches the web for streamable MP4 links |
+| 🔔 **Movie Reminders** | Schedule reminders with AlarmManager + SQLite |
+| 🔖 **Watchlist / Bookmark** | Save movies to a local Watch Later database |
+| 🎭 **Actor Profiles** | Search actors and browse all their films |
+| 🎞 **Genre Filtering** | Browse movies by category using TMDB genre list |
+| 🖼 **Image Caching** | Local blob storage via Picasso for faster loading |
+| 📜 **Watch History** | Tracked locally to refine recommendations |
+| 🎤 **Voice Search** | Find movies with speech-to-text |
+| 📤 **Social Sharing** | Share movie details and download links with friends |
 
-2) WATCH MOVIES FROM INTERNET :-
-    -  SEARCH FOR MOVIES ON GOOGLE SEARCH AND LOOKUP FOR MOVIES WITH "MP4" LINK 
-    -  WHEN WE GET THE LINK WE SHOW THE MOVIES TO USER 
+---
 
-3) WATCH TRAILER OF MOVIES :- 
-    -  WE HAVE CREATED A LOCAL VIDEOPLAYER WHICH PLAYS TRAILER OF MOVIES
-    -  WE GET YOUTUBE LINKS FROM TMDB API
+## 🛠 Tech Stack
 
-4) SET REMINDERS TO WATCH MOVIES :- 
-    -  WE OPEN A WINDOW AND USER SET THE TIME
-    -  TIME IS SAVED IN ALARM DATABASE ( SQLLITE )
-    -  START A PENDING INTENT FOR NOTIFICATION 
-    -  SET THE ALARM IN SYSTEM USING ALRAM MANGER 
-    -  WHEN THE TIMES COMES UP, USER IS NOTIFIED FOR MOVIES THEY HAVE SET TO REMIND 
+| Layer | Technology |
+|---|---|
+| Language | Java |
+| Platform | Android SDK |
+| Cloud Database | Firebase (NoSQL) |
+| Local Database | SQLite |
+| Movie Metadata | TMDB API |
+| Trailer Links | YouTube Data API (via TMDB) |
+| Streaming Links | Openload API |
+| Image Loading | Picasso |
+| Build System | Gradle |
 
-5) SET BOOKMARK FOR A MOVIES :- 
-    -  SET BOOKMARK TO WATCH LATER MOVIES 
-    -  THE MOVIES WILL BE SAVED IN WATCH LATER DB 
+---
 
-6) SET THEIR FAVORITRE ACTOR :-
-    -  A PERSON CAN SAVE THERE FAVOURITE ACTOR
-    -  THEY CAN SEARCH FOR ACTOR INFO 
-    -  THEY CAN SEARCH FOR ALL ACTORS MOVIE
-    -  WILL BE USED IN RECOMMENDATION 
+## 🚀 Getting Started
 
-7) SEARCH MOVIES BY GENRE
-    -  THESE GENRE LIST WE GET FROM TMDB API 
-    -  WE MAINTAIN A LIST VIEW FOR ALL LIST
+### Prerequisites
 
-8)  CACHING IMAGE LOCALLY 
-    -  WE CACHE IMAGE LOCALLY FOR FASTER IMAGE LOADING 
-    -  USING PICASSO OR DIRECTLY SAVING AS BLOB IN SQLLITE 
+- Android Studio (Flamingo or later recommended)
+- Android SDK 21+
+- A [TMDB API key](https://www.themoviedb.org/settings/api)
+- A [Firebase project](https://console.firebase.google.com)
 
-9)  MAINTAIN A LIST OF WATCHED MOVIES  :-
-    -  WILL BE USED IN RECOMMENDATION 
+### Setup
 
-10)  SPEECH TO TEXT :- 
-    - SEARCH A MOVIES BY VOICE 
+**1. Clone the repo**
+```bash
+git clone https://github.com/jitu2611/Filmstack.git
+cd Filmstack
+```
 
-11)  SHARE A MOVIES TO FRIENDS 
+**2. Add your API keys** — create `app/src/main/res/values/api_keys.xml`:
+```xml
+<resources>
+  <string name="tmdb_api_key">YOUR_TMDB_KEY_HERE</string>
+</resources>
+```
 
+**3. Connect Firebase** — download `google-services.json` from your Firebase console and place it in `app/`
+
+**4. Build and run** — open the project in Android Studio and click **Run**
+
+---
+
+## 🔍 How Recommendations Work
+
+Filmstack maintains a preference score for each movie genre and actor in Firebase. Each time a user watches, likes, or bookmarks a movie, the associated actor and genre scores are incremented. The recommendation feed is sorted by:
+
+1. **Global popularity** — Firebase counter of how many users liked each movie
+2. **Personal preference** — the user's own genre/actor affinity scores
+
+This creates a lightweight collaborative + content-based hybrid recommender with no ML overhead.
+
+---
+
+## 📂 Project Structure
+
+```
+Filmstack/
+├── app/
+│   ├── src/main/java/org/jitu/filmstack/
+│   │   ├── MainActivity.java          # Home feed and navigation
+│   │   ├── RecommendationEngine.java  # Scoring and Firebase sync
+│   │   ├── TrailerActivity.java       # YouTube trailer player
+│   │   ├── ReminderActivity.java      # AlarmManager scheduler
+│   │   ├── ActorActivity.java         # Actor search and filmography
+│   │   ├── ImageCacheDB.java          # SQLite image blob cache
+│   │   └── ...
+│   └── src/main/res/                  # Layouts, drawables, strings
+├── screenshot/                        # App screenshots (1-8.jpeg)
+└── build.gradle
+```
+
+---
+
+## 🤝 Contributing
+
+Pull requests are welcome! Open an issue first to discuss what you would like to change.
+
+---
+
+## 📄 License
+
+MIT © [jitu2611](https://github.com/jitu2611)
