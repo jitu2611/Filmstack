@@ -93,6 +93,8 @@ cd Filmstack
 
 ## 🔍 How Recommendations Work
 
+![Recommendation flow](docs/recommendation-flow.svg)
+
 Filmstack maintains a preference score for each movie genre and actor in Firebase. Each time a user watches, likes, or bookmarks a movie, the associated actor and genre scores are incremented. The recommendation feed is sorted by:
 
 1. **Global popularity** — Firebase counter of how many users liked each movie
